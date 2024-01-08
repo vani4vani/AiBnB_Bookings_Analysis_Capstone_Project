@@ -1,4 +1,4 @@
-# AiBnB_Bookings_Analysis_Capstone_Project
+# AriBnB_Bookings_Analysis_Capstone_Project
 
 
 Business Context
